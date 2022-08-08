@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Guzel
-- 👀 I’m interested in Quality Assurance, Python, Golang and JS
+- 👀 I’m interested in Quality Assurance, Python and Golang
 - 🌱 I’m currently learning everything that is new for me
 - 📫 How to reach me: gatinaguzelv@gmail.com
 
